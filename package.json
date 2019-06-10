@@ -1,0 +1,15 @@
+{
+	"name": "audio-cutter",
+	"version": "1.0.0",
+	"description": "",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Cloudtub",
+	"license": "ISC",
+	"dependencies": {
+		"@ffmpeg-installer/ffmpeg": "^1.0.17",
+		"fluent-ffmpeg": "^2.1.2"
+	}
+}
